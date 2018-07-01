@@ -14,8 +14,12 @@
 <code>git clone https://github.com/MrSqar-Ye/BadMod.git</code>
 <li>Install php</li>
 <code>sudo apt-get install php</code>
+<h5>or</h5>
+<code>sudo apt-get install php5</code>
 <li>Install php curl</li>
 <code>sudo apt-get install php-curl</code>
+<h5>or</h5>
+<code>sudo apt-get install php5-curl</code>
 </ul>
 <br>
 <h2>Screen shots</h2>
